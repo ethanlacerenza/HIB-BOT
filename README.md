@@ -26,7 +26,7 @@ This project is designed to help users make informed decisions about their onlin
 
 To get started with Your Project Name, follow these simple steps:
 
-```bash
+
 $ git clone https://github.com/yourusername/HIB-BOT.git
 $ cd HIB-BOT/
 Install the required dependencies:
