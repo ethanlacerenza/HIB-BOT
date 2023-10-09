@@ -1,5 +1,6 @@
 # HIB-BOT
 
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 
@@ -25,15 +26,12 @@ This project is designed to help users make informed decisions about their onlin
 
 To get started with Your Project Name, follow these simple steps:
 
-1. Clone the repository:
-
 ```bash
-$ git clone https://github.com/yourusername/your-repository.git
-$ cd your-repository
+$ git clone https://github.com/yourusername/HIB-BOT.git
+$ cd HIB-BOT/
 Install the required dependencies:
-bash
-Copy code
 $ pip install -r requirements.txt
+
 Obtain your API keys:
 
 Telegram Bot Token: Create a Telegram bot and obtain the API token from BotFather on Telegram.
@@ -43,8 +41,7 @@ Configure your API keys:
 Open the Python script and replace 'YOUR_TELEGRAM_BOT_TOKEN' and 'YOUR_HIBP_API_KEY' with your actual API tokens.
 Run the script:
 
-bash
-Copy code
+
 $ python your_project.py
 Usage
 Your Project Name allows users to check the security of their credentials through a Telegram chatbot interface. Here's how to use it:
@@ -80,16 +77,6 @@ Have I Been Pwned for providing the API that powers this project.
 Contact
 If you have any questions, feedback, or need assistance, you can contact us at your-email@example.com or find us on GitHub.
 
-Follow on GitHub
-Twitter Follow
 
-css
-Copy code
 
-This README template now includes a detailed project description. Remember to replace the placeholders with your actual project-specific details.oject.
-
-```bash
-# Example code block for installation
-$ git clone https://github.com/yourusername/your-repository.git
-$ cd your-repository
-$ pip install -r requirements.txt
+This README template now includes a detailed project description. Remember to replace the placeholders with your actual project-specific details.
