@@ -6,10 +6,10 @@ import logging  # Importa il modulo logging
 # Configura il logging per registrare gli output sulla console
 logging.basicConfig(level=logging.DEBUG)
 
-TELEGRAM_BOT_TOKEN = ''
-CHAT_ID = ''
+TELEGRAM_BOT_TOKEN = '6480363283:AAEwpnhNGiaaAilva5kH0z-vVI7t3oMtOJQ'
+CHAT_ID = '1053183436'
 # Define your Have I Been Pwned API key
-HIBP_API_KEY = ''
+HIBP_API_KEY = 'bec7292c11f84dd996b7932ac6e6cee5'
 
 # Create a Telegram bot object
 bot = telebot.TeleBot(TELEGRAM_BOT_TOKEN)
