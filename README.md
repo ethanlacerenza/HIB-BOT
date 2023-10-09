@@ -35,14 +35,16 @@ Before you begin, ensure you have met the following requirements:
    cd HIB-BOT
    
 Install the required Python packages using pip:
+   ```
+  pip install -r requirements.txt
 
-pip install -r requirements.txt
-
-Usage
-
+  Usage
+   ```
 Run the bot:
-
+   ```
 python3 hib-bot.py
+   ```
+
 Open Telegram and start a chat with your bot. You can now use the bot to check the security of email addresses and passwords.
 
 Contributing
