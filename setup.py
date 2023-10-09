@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='checkpwned-telegram-bot',
+    name='HIB-BOT',
     version='1.0.0',
     description='A Telegram bot for checking if an email or password has been pwned',
     author='Ethan Lacerenza',
